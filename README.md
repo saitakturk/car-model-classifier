@@ -5,4 +5,4 @@
 <br>
 ## Sample Images From Data
 ### I only uploaded pretrained car detector that classify the given image has car or not.
-#### I will update this repository when I got meaningful pretrained model for 396 different car models. 
+#### I will update this repository when I got meaningful pretrained model that is training with 400.000 car images for 396 different car models. 
